@@ -1,0 +1,12 @@
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/EmailAiReplyApplication.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/config/AppConfig.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/config/JacksonConfig.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/config/WebConfig.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailController/ReplyEmailController.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/Candidate.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/Content.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/GeminiResponse.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/Part.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/ReplyEmailRequest.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/replyEmailModels/ResponseDTO.java
+/Applications/disk x/projects/Smart_Email_Assistant/email_ai_reply_backend/src/main/java/com/codeOn/email_ai_reply/replyEmail/services/EmailServices.java
