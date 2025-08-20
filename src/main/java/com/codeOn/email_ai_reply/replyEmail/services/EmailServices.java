@@ -59,7 +59,7 @@ public class EmailServices {
     }
 
     private String framePrompt(ReplyEmailRequest req) {
-        String prompt = "please generate a email reply without subject of the email:"+ req.getEmailBody();
+        String prompt = "please generate a email reply without subject of the email:"+ req.getEmailBody()+"and don't give options, should be in "+req.getTone()+" Tone,";
         return prompt;
     }
 }
