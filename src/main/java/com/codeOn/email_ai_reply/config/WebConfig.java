@@ -12,7 +12,7 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry){
         registry.addMapping("/**")
-                .allowedOrigins("http://localhost:4200","https://smart-email-assistant-ui.onrender.com/")
+                .allowedOrigins("http://localhost:4200","https://smart-email-assistant-ui.onrender.com/", "https://mail.google.com/")
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*");
 
